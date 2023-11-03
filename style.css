@@ -10,7 +10,7 @@ p {
 
 img {
   position: relative;
-  left: 15px; /*apparemment, left l'emporte, peu importe la valeur de right (regarder convo djibril 03/11 aussi, sur un truc qui l'emporte*/
+  left: 15px;
   right: 15px;
   border-radius: 20px;
   margin-top: 15px;
